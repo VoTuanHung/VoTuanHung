@@ -1,16 +1,85 @@
-## Hi there 👋
+<p align="center">
+  <img src="./images/profile.jpg" width="400" alt="Ảnh cá nhân của Võ Tuấn Hùng" />
+</p>
 
-<!--
-**VoTuanHung/VoTuanHung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🐷 Chuppy Trustworthy | 4nh_chvpp7 </h1>
+<h3 align="center">Penetration Tester | Exploit Developer | Red Team Engineer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+<table>
+  <tr>
+    <td>
+      🎓 My name is **[Võ Tuấn Hưng]**. I'm pursuing a degree in **Electronics and Telecommunications Engineering** at **Posts and Telecommunications Institute of Technology - Ho Chi Minh City**.<br />
+      📅 Class of **2025-2030**.<br />
+      📚 I'm currently self-studying cybersecurity and information security.<br />
+      🔐 I'm interested in Web Security, Reverse Engineering, and Binary Exploitation.<br />
+      📚 Currently building my skills in information security.
+    </td>
+    <td align="center">
+      <img
+        height="150"
+        src="https://media1.tenor.com/m/EGLtrVbpk8wAAAAC/chiikawa-cute.gif"
+        alt="Chiikawa GIF"
+      />
+    </td>
+  </tr>
+</table>
+
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=VoTuanHung&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=VoTuanHung&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5"
+    height="250"
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+## 🛠️ Tools & Languages 🛠️
+
+### 🫆 Security Tools 🗝️
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-F80000?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-2C75FF?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![dnSpy](https://img.shields.io/badge/dnSpy-0078D4?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=for-the-badge)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-000000?style=for-the-badge)
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+### 🖥️ Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
