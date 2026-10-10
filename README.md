@@ -10,8 +10,8 @@
 <table>
   <tr>
     <td>
-      🎓 My name is **[Võ Tuấn Hưng]**. I'm pursuing a degree in **Electronics and Telecommunications Engineering** at **Posts and Telecommunications Institute of Technology - Ho Chi Minh City**.<br />
-      📅 Class of **2025-2030**.<br />
+      🎓 My name is <strong>Võ Tuấn Hưng<strong/>. I'm pursuing a degree in <strong>Electronics and Telecommunications Engineering<strong/> at <strong>Posts and Telecommunications Institute of Technology - Ho Chi Minh City</strong>.<br />
+      📅 Class of <strong>2025-2030</strong>.<br />
       📚 I'm currently self-studying cybersecurity and information security.<br />
       🔐 I'm interested in Web Security, Reverse Engineering, and Binary Exploitation.<br />
       📚 Currently building my skills in information security.
