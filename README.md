@@ -10,11 +10,11 @@
 <table>
   <tr>
     <td>
-      🎓 My name is <strong>Võ Tuấn Hưng<strong/>. I'm pursuing a degree in <strong>Electronics and Telecommunications Engineering<strong/> at <strong>Posts and Telecommunications Institute of Technology - Ho Chi Minh City</strong>.<br />
-      📅 Class of <strong>2025-2030</strong>.<br />
-      📚 I'm currently self-studying cybersecurity and information security.<br />
-      🔐 I'm interested in Web Security, Reverse Engineering, and Binary Exploitation.<br />
-      📚 Currently building my skills in information security.
+      🎓 My name is <strong>Võ Tuấn Hưng</strong>. I'm pursuing a degree in <strong>Electronics and Telecommunications Engineering</strong> at <strong>Posts and Telecommunications Institute of Technology – Ho Chi Minh City</strong>.<br />
+📅 Class of <strong>2025–2030</strong>.<br />
+📚 I'm currently self-studying cybersecurity and information security.<br />
+🔐 I'm interested in <strong>Web Security</strong>, <strong>Reverse Engineering</strong>, and <strong>Binary Exploitation</strong>.<br />
+📚 I'm currently building my skills in information security.
     </td>
     <td align="center">
       <img
@@ -66,12 +66,8 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🖥️ Operating Systems
 
