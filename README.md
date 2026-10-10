@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images/hacker.gif" width="800" alt="Hacker animation" />
-</p>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk0Ynp2NjQ0ZngyNTR4NThjN3o1aXp4aWYzajRrMndudW5qZmYxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif" width="800px" /></p>
 
 <h1 align="center">🐷 Chuppy Trustworthy | 4nh_chvpp7 </h1>
 <h3 align="center">Penetration Tester | Exploit Developer | Red Team Engineer</h3>
@@ -21,8 +19,8 @@
     <td align="center">
       <img
         height="150"
-        src="https://media1.tenor.com/m/EGLtrVbpk8wAAAAC/chiikawa-cute.gif"
-        alt="Chiikawa GIF"
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk0Ynp2NjQ0ZngyNTR4NThjN3o1aXp4aWYzajRrMndudW5qZmYxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif"
+        alt="Hacker GIF"
       />
     </td>
   </tr>
