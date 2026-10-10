@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/profile.jpg" width="400" alt="Ảnh cá nhân của Võ Tuấn Hùng" />
+  <img src="./images/hacker.gif" width="800" alt="Hacker animation" />
 </p>
 
 <h1 align="center">🐷 Chuppy Trustworthy | 4nh_chvpp7 </h1>
